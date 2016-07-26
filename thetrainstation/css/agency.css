@@ -170,8 +170,11 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-brand {
-    color: #fed136;
-    font-family: "Kaushan Script", "Helvetica Neue", Helvetica, Arial, cursive
+width:80px;
+height:41px;
+background-image:url(https://github.com/thetrainstation/thetrainstation.github.io/blob/master/thetrainstation/img/TTS_logo_65x65.png);
+background-repeat:no-repeat; 
+margin:5px 0 0 5px; /*better position*/
 }
 
 .navbar-default .navbar-brand:hover,
