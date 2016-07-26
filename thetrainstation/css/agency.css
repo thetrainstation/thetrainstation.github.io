@@ -172,7 +172,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .navbar-brand {
 width:80px;
 height:41px;
-background-image:thetrainstation.github.io/thetrainstation/img/TTS_logo_65x65.png;
+background-image:url()thetrainstation.github.io/thetrainstation/img/TTS_logo_65x65.png);
 background-repeat:no-repeat; 
 margin:5px 0 0 5px; /*better position*/
 }
