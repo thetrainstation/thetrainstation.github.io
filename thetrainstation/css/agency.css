@@ -238,7 +238,10 @@ margin:5px 0 0 5px; /*better position*/
         border: 0
     }
     .navbar-default .navbar-brand {
-        font-size: 2em;
+width:200px;
+height:102px;
+background-image:url(http://thetrainstation.github.io/thetrainstation/img/TTS_logo_150x150.png);
+background-repeat:no-repeat;
         -webkit-transition: all .3s;
         -moz-transition: all .3s;
         transition: all .3s
