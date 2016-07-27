@@ -238,8 +238,8 @@ margin:5px 0 0 5px; /*better position*/
         border: 0
     }
     .navbar-default .navbar-brand {
-width:200px;
-height:102px;
+width:150px;
+height:150px;
 background-image:url(http://thetrainstation.github.io/thetrainstation/img/TTS_logo_150x150.png);
 background-repeat:no-repeat;
         -webkit-transition: all .3s;
@@ -255,6 +255,10 @@ background-repeat:no-repeat;
     }
     .navbar-default.navbar-shrink .navbar-brand {
         font-size: 1.5em
+        width:75px;
+height:75px;
+background-image:url(http://thetrainstation.github.io/thetrainstation/img/TTS_logo_75x75.png);
+background-repeat:no-repeat;
     }
 }
 
